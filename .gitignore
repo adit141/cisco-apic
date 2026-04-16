@@ -1,0 +1,13 @@
+# ignore semua file
+*
+
+# tetap allow folder
+!*/
+
+# allow python files
+!*.py
+
+# allow file penting
+!.gitignore
+!README.md
+!requirements.txt

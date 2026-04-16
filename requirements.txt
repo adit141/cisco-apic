@@ -1,0 +1,7 @@
+# Cisco ACI vPC Deployment Automation – Python Dependencies
+# Install with: pip install -r requirements.txt
+
+requests>=2.28.0
+pandas>=1.5.0
+openpyxl>=3.0.10
+urllib3>=1.26.0
